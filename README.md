@@ -9,3 +9,7 @@
 
 The dataset of the problem statement has been taken from the kaggle dataset.<br>
 Download the dataset - https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
+
+Visulaization of dataset 
+![Test Image 1](https://github.com/aayushi1499/Human-Activity-Recognition/blob/main/visualization.PNG)
+
